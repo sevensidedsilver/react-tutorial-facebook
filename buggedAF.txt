@@ -1,0 +1,7 @@
+I'm not sure what went wrong with this repository.
+
+I needed to install some updates on my computer and after restarting, there was no package json, no npm, and no... well no react.
+
+I used create react app for this repository and will try to recreate the bug later today with the same updates and setting.
+
+Also, making a new repository to continue with the tutorial on the fb dev site.
